@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Developed by Anton Samsonov <devel@zxlab.ru>
+# Licensed under the terms of Unlicense: https://unlicense.org/
+
 function ShowBanner ()
 {
 	echo "${APP_BANNER}"
